@@ -152,4 +152,10 @@ The full workflow runs from a single script using publicly available FRED data. 
 
 ## Disclaimer
 
-This project is independent personal research. It does not constitute any financial advice.
+This project is independent personal research, conducted for learning and exploration purposes. Not intended for professional or investment use.
+
+---
+
+## Development notice
+
+This project was developed with AI assistance, used as an exploration and development accelerator. All methodological choices, variable selection and model structure were defined by the author. AI suggestions were critically reviewed, and selectively implemented. 
